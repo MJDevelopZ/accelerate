@@ -53,6 +53,8 @@ Text Domain:  accelerate-theme-child
 
 #masthead nav ul li{
 	list-style-type: none;
+	display: inline;
+	margin-right: 10px;
 }
 
 /*Homepage Btn*/
